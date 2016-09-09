@@ -4,4 +4,4 @@ This is an incomplete script I wrote to take Vesper exports and create a Day One
 
 Please note that it currently doesn't work! I was unable to import photos, though by removing the photos part of the array, I was able to import the text itself.
 
-I'm making this available in case anyone wanted to take it and work on it for themselves.
+I'm done with this now so I won't be making any more updates, but I'm making this available in case anyone wanted to take it and work on it for themselves. Contributions welcome!
